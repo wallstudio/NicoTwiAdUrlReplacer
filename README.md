@@ -1,0 +1,2 @@
+# NicoTwiAdUrlReplacer
+ニコニコの広告のリンクはTwitterカードに対応していなくて残念なので普通のリンクに置き換えます．
